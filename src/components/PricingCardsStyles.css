@@ -1,28 +1,13 @@
-<<<<<<< HEAD
 body {
-    background-color: rgb(23, 23, 23);
+  background-color: rgb(23, 23, 23);
 }
 
 .pricing-container {
-    margin: 5% 10%;    
-}   
-
-.cards {
-    margin: 0 5%;
-    text-align: center;
-    color: #fff;
-=======
-body {
-    background-color: rgb(23, 23, 23);
+  margin: 5% 10%;
 }
 
-.pricing-container {
-    margin: 5% 10%;    
-}   
-
 .cards {
-    margin: 0 5%;
-    text-align: center;
-    color: #fff;
->>>>>>> master
+  margin: 0 5%;
+  text-align: center;
+  color: #fff;
 }

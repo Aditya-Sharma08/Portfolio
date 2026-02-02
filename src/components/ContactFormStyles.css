@@ -1,44 +1,25 @@
-<<<<<<< HEAD
 .form-container {
-    margin: 5% 30%;
+  margin: 5% 30%;
 }
 
 body {
-    background: radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(49, 49, 49) 90.2%);
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(0, 0, 0) 0%,
+    rgb(49, 49, 49) 90.2%
+  );
 }
 
 .row {
-    margin: 3% 0;
+  margin: 3% 0;
 }
 
 #btn {
-    text-align: center;
-    margin-top: 5%;
+  text-align: center;
+  margin-top: 5%;
 }
 
 .button {
-    padding: 8px 45.5%;
-    text-align: center;
-=======
-.form-container {
-    margin: 5% 30%;
-}
-
-body {
-    background: radial-gradient(circle at 10% 20%, rgb(0, 0, 0) 0%, rgb(49, 49, 49) 90.2%);
-}
-
-.row {
-    margin: 3% 0;
-}
-
-#btn {
-    text-align: center;
-    margin-top: 5%;
-}
-
-.button {
-    padding: 8px 45.5%;
-    text-align: center;
->>>>>>> master
+  padding: 8px 45.5%;
+  text-align: center;
 }
