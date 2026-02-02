@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .top-container {
     padding: 1% 2%;
     font-size: 20px; 
@@ -11,4 +12,19 @@
 
 .ul-links {
     margin: 15px;
+=======
+.top-container {
+    padding: 1% 2%;
+    font-size: 20px; 
+    background-color: black;
+}
+
+#h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.ul-links {
+    margin: 15px;
+>>>>>>> master
 }
